@@ -2,12 +2,9 @@
 
 Calculadora completa de tarifas de agua potable y drenaje para municipios mexicanos con cálculo automático de consumo, tarifas diferenciadas y subsidios aplicables.
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/gerardolucero)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lucerorios0)
-[![GitHub Stars](https://img.shields.io/github/stars/GerardoLucero/calculadora-agua?style=social)](https://github.com/GerardoLucero/calculadora-agua)
 [![npm version](https://badge.fury.io/js/calculadora-agua.svg)](https://badge.fury.io/js/calculadora-agua)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js CI](https://github.com/GerardoLucero/calculadora-agua/workflows/CI%2FCD%20Pipeline/badge.svg)](https://github.com/GerardoLucero/calculadora-agua/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![CI](https://github.com/GerardoLucero/calculadora-agua/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/GerardoLucero/calculadora-agua/actions/workflows/ci-cd.yml)
 
 ## Features
 
@@ -141,6 +138,13 @@ Obtiene todas las tarifas oficiales de un municipio.
 
 Calcula el consumo en m³ basado en lecturas del medidor.
 
+## Apoyo
+
+Proyecto de código abierto mantenido en mi tiempo libre. Si te fue útil y quieres agradecerlo:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/gerardolucero)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lucerorios0)
+
 ## Licencia
 
-MIT © [Gerardo Lucero](https://github.com/GerardoLucero)
+MIT © [Gerardo Lucero](https://github.com/GerardoLucero), ver [LICENSE](LICENSE).
